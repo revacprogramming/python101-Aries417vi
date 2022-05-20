@@ -1,4 +1,3 @@
-
 hrs = input("Enter Hours:")
 h = float(hrs)
 a = input("Enter the Rate:")
