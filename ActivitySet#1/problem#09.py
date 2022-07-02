@@ -1,5 +1,5 @@
 # Lists
-filename = "dataset/romeo.txt"
+       filename = ""
 fname =input("Enter file name: ")
 fh = open(fname)
 lst = list()                       
@@ -11,4 +11,5 @@ for line in fh:
         else :                     
             lst.append(element)    
 lst.sort()                      
-print (lst)                      
+print (lst)             
+             
